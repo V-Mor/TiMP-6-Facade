@@ -146,6 +146,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Architect.cpp" />
+    <ClCompile Include="Building_materials_factory.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Sponsor.cpp" />
+    <ClCompile Include="Workers.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Architect.h" />
+    <ClInclude Include="Building_materials_factory.h" />
+    <ClInclude Include="Sponsor.h" />
+    <ClInclude Include="Workers.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
