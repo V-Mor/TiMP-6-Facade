@@ -30,6 +30,9 @@
     <ClCompile Include="Workers.cpp">
       <Filter>Файлы исходного кода</Filter>
     </ClCompile>
+    <ClCompile Include="Building_company.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Sponsor.h">
@@ -42,6 +45,9 @@
       <Filter>Заголовочные файлы</Filter>
     </ClInclude>
     <ClInclude Include="Architect.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="Building_company.h">
       <Filter>Заголовочные файлы</Filter>
     </ClInclude>
   </ItemGroup>

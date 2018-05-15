@@ -147,6 +147,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Architect.cpp" />
+    <ClCompile Include="Building_company.cpp" />
     <ClCompile Include="Building_materials_factory.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Sponsor.cpp" />
@@ -154,6 +155,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Architect.h" />
+    <ClInclude Include="Building_company.h" />
     <ClInclude Include="Building_materials_factory.h" />
     <ClInclude Include="Sponsor.h" />
     <ClInclude Include="Workers.h" />
